@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="36dp"
+    android:height="36dp"
+    android:viewportWidth="36"
+    android:viewportHeight="36">
+    <!-- Leaf 1 -->
+    <path
+        android:fillColor="#16A34A"
+        android:pathData="M18,34 C18,34 18,22 8,16 C8,16 6,26 12,30 C15,32 18,34 18,34 Z" />
+    <!-- Leaf 2 -->
+    <path
+        android:fillColor="#22C55E"
+        android:pathData="M18,34 C18,34 20,18 30,10 C30,10 32,22 24,28 C20,31 18,34 18,34 Z" />
+    <!-- Center sprout stem -->
+    <path
+        android:strokeColor="#15803D"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M18,34 C18,26 19,16 23,8" />
+</vector>
